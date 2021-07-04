@@ -1,4 +1,4 @@
-#Write a function that reverses a string. The input string is given as an array of characters S.
+#Write a function that reverses a string. The input string is given as an array of characters S
 # Example
 # Input s = ["h", "e", "l", "l", "o"]
 # Ouput : [ "o", "l", "l", "e", "h"]
